@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marta</h1>
 
-- 🔭 I’m currently studing on **2º course Computer Engineering**
+- 🔭 I’m currently studing on **4th course Computer Engineering**
 
 
 <h3 align="left">Connect with me:</h3>
